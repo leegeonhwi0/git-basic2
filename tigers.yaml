@@ -2,7 +2,11 @@ team: Tigers
 
 
 manager: Donald
+<<<<<<< HEAD
 coach: meueueck
+=======
+coach: buaoaack
+>>>>>>> conflict-3
 
 members:
 - Linda
