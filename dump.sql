@@ -268,7 +268,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'세종시','2024-04-11','01044135539','123@naver.com','정건영','$2a$10$IhjqMQd.Oso5mydUmFiRv.WASI74V5f0g332c146Jo4eNkr/kNc92'),(2,'세종시','2001-05-10','01044135539','chess14@naver.com','정건영','$2a$10$ooacF7VDnac/QzWryJa/0OEnXF3diq0EreM918XyVhpmKG4MSIrpO'),(52,'세종시','2024-04-30','01044135539','chess13@naver.com','정건영','$2a$10$r0gtW6RSF2dvFOFAeCnCHuOBq7l.lYWScAcnzpRToBC1Qm8aG8vBu'),(102,'세종시 나성동','1995-04-23','010-1234-5678','genie326@naver.com','김수진','$2a$10$x3.x4CVH/xsJ9uGh7owgYeduFH0aJ82j/q71Yq4QhHAnnKOxZ9dMa'),(103,'세종시 한솔동','1999-12-17','010-1212-1717','choiseen@hangaram.com','최시은','$2a$10$l3qHQ1v6BmgUxxejDxFLVOILk4e0ACky8wl6R2js2hV3H1NHqTd.6'),(153,'세종시 한솔동','1999-12-17','010-1234-5678','ssalgaga@naver.com','최시은','$2a$10$25lRZc3QQ8NtqijmFrrAUO7xmpkYscQ/oWShND69xhUN8WgaMw.yu'),(202,'세종시 나성동','1234-12-24','01094942257','test@test.com','dd','$2a$10$PoKUiEvlagn5.WGNX4i6zOZzI5w3U7tRPR5W1KbMYk2xE8ZYC.zm2'),(302,'세종시 종촌동','1995-02-23','010-9494-2257','rjs0223@naver.com','이건휘','$2a$10$2rMdj4OS1LNI37UzP3TJxutZuA13t9P1UtzkFyRjS8EQKFtZRXGjO');
+INSERT INTO `user` VALUES (1,'세종시','2024-04-11','01044135539','123@naver.com','정건영','$2a$10$IhjqMQd.Oso5mydUmFiRv.WASI74V5f0g332c146Jo4eNkr/kNc92'),(2,'세종시','2001-05-10','01044135539','chess14@naver.com','정건영','$2a$10$ooacF7VDnac/QzWryJa/0OEnXF3diq0EreM918XyVhpmKG4MSIrpO'),(102,'세종시 나성동','1995-04-23','010-1234-5678','genie326@naver.com','김수진','$2a$10$x3.x4CVH/xsJ9uGh7owgYeduFH0aJ82j/q71Yq4QhHAnnKOxZ9dMa'),(103,'세종시 한솔동','1999-12-17','010-1212-1717','choiseen@hangaram.com','최시은','$2a$10$l3qHQ1v6BmgUxxejDxFLVOILk4e0ACky8wl6R2js2hV3H1NHqTd.6'),(253,'세종시 종촌동','1995-02-23','01094942257','rjs0223@naver.com','이건휘','$2a$10$ThIJigb7oYpwCCSsbuOS0evsgVNt/y9wovFlRc07T3lQOLV6YIHem');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -303,4 +303,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-05-02  3:33:29
+-- Dump completed on 2024-05-02  6:21:44
